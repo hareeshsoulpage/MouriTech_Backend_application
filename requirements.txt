@@ -1,0 +1,7 @@
+flask>=2.2.3
+Flask-Cors>=3.0.10
+opencv-python-headless
+deepface
+pillow 
+super-gradients
+tensorflow[and-cuda]
